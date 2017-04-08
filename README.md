@@ -4,7 +4,7 @@ debugged.
 
 used as exercises for
 
-![power.coders](powercoders-cropped.png "power.coders")
+[![power.coders](powercoders-cropped.png "power.coders")](http://powercoders.org/)
 
 the idea of these buggy sketches is to learn to read python's traceback. python
 will tell you very precisely why and also where it is unhappy with your code.
